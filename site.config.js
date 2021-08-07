@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'CoffCodes',
-  domain: 'https://glen-colby-953.notion.site/BigData-a7302402a5d54f8794d03983fb201d7a',
+  domain: 'https://coffcodes.notion.site/coffcodes/BigData-a7302402a5d54f8794d03983fb201d7a',
   author: 'CoffCode',
 
   // open graph metadata (optional)
